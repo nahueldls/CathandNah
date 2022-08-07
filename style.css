@@ -17,8 +17,8 @@ li {
     display: inline;
     margin-left: 400px;
     color: brown;
-    /*border-style: groove;
+    border-style: groove;
     border-radius: 10px;
     border-width: 3px;
-    border-color: brown;*/
+    border-color: brown;
 }
