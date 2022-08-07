@@ -1,11 +1,11 @@
 body{
     background-color: beige;
-    /*font-size: 30px;
-    padding: 30px;*/
+    font-size: 30px;
+    padding: 30px;
 }
 h1{
     color: blue;
-    /*text-align: center;*/
+    text-align: center;
 }
 p{
     color: brown;
