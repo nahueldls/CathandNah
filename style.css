@@ -6,6 +6,8 @@ body{
 h1{
     color: blue;
     text-align: center;
+    background-color: grey;
+    font-family: Courier, sans-serif;
 }
 p{
     color: brown;
